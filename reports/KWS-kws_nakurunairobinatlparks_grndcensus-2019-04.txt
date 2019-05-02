@@ -1,0 +1,50 @@
+Report for Institution Code KWS, Resource kws_nakurunairobinatlparks_grndcensus
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 24
+Number of records retrieved in searches: 216
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 23
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-19 ; Times: 5
+	Date: 2019-04-12 ; Times: 2
+	Date: 2019-04-06 ; Times: 1
+	Date: 2019-04-22 ; Times: 10
+	Date: 2019-04-20 ; Times: 2
+	Date: 2019-04-21 ; Times: 2
+	Date: 2019-04-03 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "order:carnivora class:mammalia country:&#34;kenya&#34; institutioncode:KWS" ; Times: 2
+	Query: "caracal class:mammalia" ; Times: 4
+	Query: "genus:caracal class:mammalia" ; Times: 9
+	Query: "Acinonyx jubatus" ; Times: 2
+	Query: "caracal" ; Times: 2
+	Query: "Varanus niloticus mappable:1" ; Times: 1
+	Query: "Panthera leo" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 1263 download events in this period)
+Total number of records downloaded: 37
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-22 ; Times: 1
+	Date: 2019-04-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:caracal class:mammalia" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+
+
+End of report.
