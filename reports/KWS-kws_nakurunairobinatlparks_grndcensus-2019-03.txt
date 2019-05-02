@@ -1,0 +1,45 @@
+Report for Institution Code KWS, Resource kws_nakurunairobinatlparks_grndcensus
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 8
+Number of records retrieved in searches: 169
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-30 ; Times: 2
+	Date: 2019-03-17 ; Times: 2
+	Date: 2019-03-13 ; Times: 1
+	Date: 2019-03-29 ; Times: 1
+	Date: 2019-03-19 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "gbifdatasetid:4ec9e37d-1af5-4dc2-9c2f-97fcf5f22867" ; Times: 1
+	Query: "canis mesomelas" ; Times: 1
+	Query: "oreotragus" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 3
+	Query: "cheetah" ; Times: 1
+	Query: "genus:Eupodotis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 1281 download events in this period)
+Total number of records downloaded: 8
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Acinonyx jubatus" ; Times: 1
+
+
+End of report.
