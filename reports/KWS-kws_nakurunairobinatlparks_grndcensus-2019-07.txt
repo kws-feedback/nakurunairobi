@@ -1,0 +1,48 @@
+Report for Institution Code KWS, Resource kws_nakurunairobinatlparks_grndcensus
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 14
+Number of records retrieved in searches: 334
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Unknown ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: India ; Times: 4
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 4
+	Date: 2019-07-08 ; Times: 3
+	Date: 2019-07-28 ; Times: 1
+	Date: 2019-07-17 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Crocodylus mappable:1" ; Times: 1
+	Query: "Caracal+caracal" ; Times: 3
+	Query: "class:aves institutioncode:KWS" ; Times: 1
+	Query: "genus:Papio specificepithet:anubis" ; Times: 1
+	Query: "genus:Alcelaphus " ; Times: 1
+	Query: "genus:Equus specificepithet:quagga" ; Times: 1
+	Query: "genus:Alcelaphus  specificepithet:buselaphus" ; Times: 1
+	Query: "Caracal caracal" ; Times: 3
+	Query: "genus:Redunca" ; Times: 1
+	Query: "genus:Giraffa specificepithet:camelopardalis " ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 985 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
