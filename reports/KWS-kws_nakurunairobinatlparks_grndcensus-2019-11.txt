@@ -1,0 +1,52 @@
+Report for Institution Code KWS, Resource kws_nakurunairobinatlparks_grndcensus
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 26
+Number of records retrieved in searches: 1433
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Denmark ; Times: 20
+	Country: Netherlands ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-22 ; Times: 2
+	Date: 2019-11-06 ; Times: 5
+	Date: 2019-11-05 ; Times: 1
+	Date: 2019-11-11 ; Times: 1
+	Date: 2019-11-03 ; Times: 16
+	Date: 2019-11-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Chlorocebus aethiops" ; Times: 1
+	Query: "Panthera pardus" ; Times: 2
+	Query: "Helmeted Guineafowl" ; Times: 1
+	Query: "Numida" ; Times: 1
+	Query: "Giraffa camelopardalis" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 8
+	Query: "Aepyceros melampus" ; Times: 6
+	Query: "Equus burchellii" ; Times: 2
+	Query: "Kobus ellipsiprymnus" ; Times: 1
+	Query: "Connochaetes taurinus" ; Times: 1
+	Query: "numida meleagris" ; Times: 1
+	Query: "acinonyx jubatus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 1367 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
