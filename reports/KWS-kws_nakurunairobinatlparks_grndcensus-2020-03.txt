@@ -1,0 +1,48 @@
+Report for Institution Code KWS, Resource kws_nakurunairobinatlparks_grndcensus
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 18
+Number of records retrieved in searches: 443
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-04 ; Times: 1
+	Date: 2020-03-09 ; Times: 1
+	Date: 2020-03-13 ; Times: 3
+	Date: 2020-03-02 ; Times: 13
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Alcelaphus specificepithet:buselaphus" ; Times: 1
+	Query: "helmeted guineafowl" ; Times: 3
+	Query: "genus:Papio specificepithet:anubis" ; Times: 2
+	Query: "specificepithet:leo genus:panthera" ; Times: 1
+	Query: "hyena" ; Times: 1
+	Query: "genus:Chlorocebus specificepithet:aethiops" ; Times: 2
+	Query: "Acinonyx jubatus" ; Times: 2
+	Query: "genus:Oreotragus specificepithet:oreotragus" ; Times: 2
+	Query: "genus:Acinonyx specificepithet:jubatus" ; Times: 3
+	Query: "genus:Acinonyx" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 853 download events in this period)
+Total number of records downloaded: 52
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "panthera" ; Times: 1
+
+
+End of report.
