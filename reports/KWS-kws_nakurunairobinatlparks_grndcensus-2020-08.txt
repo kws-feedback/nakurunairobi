@@ -1,0 +1,56 @@
+Report for Institution Code KWS, Resource kws_nakurunairobinatlparks_grndcensus
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 13
+Number of records retrieved in searches: 350
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 4
+	Country: United States ; Times: 5
+	Country: Germany ; Times: 1
+	Country: Portugal ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-03 ; Times: 2
+	Date: 2020-08-12 ; Times: 1
+	Date: 2020-08-10 ; Times: 3
+	Date: 2020-08-24 ; Times: 2
+	Date: 2020-08-19 ; Times: 3
+	Date: 2020-08-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Chlorocebus aethiops" ; Times: 1
+	Query: "Papio anubis" ; Times: 1
+	Query: "Panthera pardus" ; Times: 2
+	Query: "mappable:1 scientificname:Numida meleagris" ; Times: 1
+	Query: "specificepithet:africanus genus:Phacochoerus" ; Times: 1
+	Query: "mappable:1 scientificname:Varanus niloticus" ; Times: 1
+	Query: "genus:Phacochoerus" ; Times: 1
+	Query: "specificepithet:jubatus genus:Acinonyx" ; Times: 2
+	Query: "mappable:1 scientificname:Balearica regulorum" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "genus:Giraffa" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 756 download events in this period)
+Total number of records downloaded: 157
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-24 ; Times: 1
+	Date: 2020-08-05 ; Times: 1
+	Date: 2020-08-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Testudines" ; Times: 2
+	Query: "specificepithet:africanus genus:Phacochoerus" ; Times: 1
+
+
+End of report.
